@@ -1,4 +1,8 @@
-# alx_be_shell                                                                                                                                  # Shell Permissions                                                                                                                             This repository contains various shell scripts for managing file permissions and user operations on a Linux system.
+# alx_be_shell
+
+## Shell Permissions
+
+## This repository contains various shell scripts for managing file permissions and user operations on a Linux system.
 
 ## Files
 
